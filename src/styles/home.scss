@@ -1,0 +1,28 @@
+.bg-home1 {
+  background-image: url("/images/Home/img_home1.png");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: 100%;
+}
+.bg-footer {
+  background-image: url("/images/Home/img_footer1.png");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  min-height: 282px;
+  width: 100%;
+}
+.bg-login {
+  background-image: url("/images/Login/img_login1.png");
+  background-size: contain;
+  background-position: center;
+  // background-repeat: no-repeat;
+  height: 100vh;
+  // min-height: 100vh;
+  width: 100vw;
+}
+.bg-login-form {
+  background-color: rgba(88, 130, 193, 0.28);
+  border: 1px solid rgba(88, 130, 193, 0.49);
+}
